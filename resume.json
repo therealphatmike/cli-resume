@@ -1,13 +1,38 @@
 {
-    "Education": [],
-    "Past Experience": [],
-    "Technologies": [],
-    "Projects": [],
-    "Contacts and Social Media": {
-        "GitHub": "https://github.com/nofoxmichael",
-        "Website": "therealphatmike.com",
-        "Email": "michael.smith@nofoxmedia.com",
-        "LinkedIn": "",
-        "Instagram": "instagram.com/therealphatmike"
-    }
+    "Education": [
+        "B.S. Computer Science from Middle Tennessee State University"
+    ],
+    "Professional Experience": [
+        "May 2016 - Present: Software Engineer I at Medhost",
+        "March 2015 - May 2016, Mobile Developer at MTSU Mobile"
+    ],
+    "Technologies": [
+        "Java",
+        "Spring",
+        "Angular",
+        "marionette.js",
+        "IBM DB2",
+        "Node",
+        "GatsbyJS",
+        "React"
+    ],
+    "Projects": [
+        "nashvilletabletennisclub.org -- developed with GatsbyJS and React",
+        "CLI resume -- developed with node, available at <url> or by running `npm install therealphatmike-resume`"
+    ],
+    "Personal Interests": [
+        "Cooking",
+        "Gardening",
+        "Guitar",
+        "Hanging with my Bernese Mountain Dog, Mozzie",
+        "Whisky, Gin, and Cocktails"
+    ],
+    "Contacts and Social Media": [
+        "GitHub: https://github.com/nofoxmichael",
+        "GitLab: https://gitlab.com/therealphatmike",
+        "Website: therealphatmike.com",
+        "Email: michael.smith@nofoxmedia.com",
+        "LinkedIn: https://www.linkedin.com/in/t-michael-smith-97928211a/",
+        "Instagram: https://www.instagram.com/therealphatmike/"
+    ]
 }
