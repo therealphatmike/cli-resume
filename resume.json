@@ -18,7 +18,7 @@
     ],
     "Projects": [
         "nashvilletabletennisclub.org -- developed with GatsbyJS and React",
-        "CLI resume -- developed with node, available at <url> or by running `npm install therealphatmike-resume`"
+        "CLI resume -- developed with node, available at https://www.npmjs.com/package/therealphatmike-resume or by running `npm install therealphatmike-resume`"
     ],
     "Personal Interests": [
         "Cooking",
