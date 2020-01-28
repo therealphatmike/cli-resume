@@ -3,18 +3,24 @@
         "B.S. Computer Science from Middle Tennessee State University"
     ],
     "Professional Experience": [
-        "May 2016 - Present: Software Engineer I at Medhost",
-        "March 2015 - May 2016, Mobile Developer at MTSU Mobile"
+        "May 2019 - Present: Software Engineer II at Asurion",
+        "May 2016 - May 2019: Software Engineer I at Medhost",
+        "March 2015 - May 2016: Mobile Developer at MTSU Mobile"
     ],
     "Technologies": [
+        "Dart",
         "Java",
         "Spring",
         "Angular",
-        "marionette.js",
-        "IBM DB2",
         "Node",
         "GatsbyJS",
-        "React"
+        "React",
+        "GraphQL",
+        "Dynatrace",
+        "Mixpanel",
+        "Kibana",
+        "marionette.js",
+        "IBM DB2"
     ],
     "Projects": [
         "nashvilletabletennisclub.org -- developed with GatsbyJS and React",
@@ -24,15 +30,16 @@
         "Cooking",
         "Gardening",
         "Guitar",
-        "Hanging with my Bernese Mountain Dog, Mozzie",
+        "Hanging with my Bernese Mountain Dog, Mozzie, and my Newfoundlad, Delta",
         "Whisky, Gin, and Cocktails"
     ],
     "Contacts and Social Media": [
         "GitHub: https://github.com/nofoxmichael",
         "GitLab: https://gitlab.com/therealphatmike",
         "Website: therealphatmike.com",
+        "Resume Page: resume.therealphatmike.com",
         "Email: michael.smith@nofoxmedia.com",
-        "LinkedIn: https://www.linkedin.com/in/t-michael-smith-97928211a/",
+        "LinkedIn: https://www.linkedin.com/in/therealphatmike",
         "Instagram: https://www.instagram.com/therealphatmike/"
     ]
 }
